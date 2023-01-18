@@ -1,1 +1,3 @@
-# automatic-feeding-machine
+# automatic-feeding-machine 프로젝트 보고서 레퍼지토리입니다.
+  - 프로젝트 보고서 파일로 이루어져있습니다.
+  - 현재 프로젝트 진행당시 코드를 찾지 못해 넣어두지 못했습니다. 최대한 빨리 찾아서 업로드 하겠습니다.
